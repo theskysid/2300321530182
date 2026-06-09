@@ -1,5 +1,0 @@
-com/affordmed/logging/service/impl/LoggingServiceImpl.class
-com/affordmed/logging/service/LoggingService.class
-com/affordmed/logging/config/LoggingAutoConfiguration.class
-com/affordmed/logging/config/LoggingProperties.class
-com/affordmed/logging/dto/LogRequest.class

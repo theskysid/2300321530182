@@ -1,7 +1,7 @@
 package com.affordmed.scheduler.client;
 
 import com.affordmed.scheduler.dto.AuthResponse;
-import com.affordmed.logging.service.LoggingService;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
@@ -12,14 +12,13 @@ import static org.mockito.Mockito.*;
 public class TokenProviderTest {
 
     private AuthClient authClient;
-    private LoggingService loggingService;
+
     private TokenProvider tokenProvider;
 
     @BeforeEach
     public void setUp() {
         authClient = mock(AuthClient.class);
-        loggingService = mock(LoggingService.class);
-        tokenProvider = new TokenProvider(authClient, loggingService);
+        tokenProvider = new TokenProvider(authClient);
     }
 
     @Test
@@ -57,6 +56,7 @@ public class TokenProviderTest {
         String token1 = tokenProvider.getToken();
         assertEquals("token1", token1);
 
+        Thread.sleep(1001);
 
         String token2 = tokenProvider.getToken();
 

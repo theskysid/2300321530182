@@ -9,7 +9,6 @@ com/affordmed/scheduler/dto/Depot.class
 com/affordmed/scheduler/dto/MaintenanceTask.class
 com/affordmed/scheduler/dto/AuthResponse.class
 com/affordmed/scheduler/client/TokenProvider.class
-com/affordmed/scheduler/exception/GlobalExceptionHandler.class
 com/affordmed/scheduler/client/VehicleClient.class
 com/affordmed/scheduler/client/DepotClient$1.class
 com/affordmed/scheduler/service/KnapsackOptimizationService.class

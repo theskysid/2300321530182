@@ -3,7 +3,6 @@
 /home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/config/AppConfig.java
 /home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/dto/AuthRequest.java
 /home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/controller/SchedulingController.java
-/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/exception/GlobalExceptionHandler.java
 /home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/dto/OptimizationResult.java
 /home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/client/DepotClient.java
 /home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/SchedulerApplication.java

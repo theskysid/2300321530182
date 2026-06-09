@@ -2,7 +2,7 @@ package com.affordmed.scheduler.service;
 
 import com.affordmed.scheduler.dto.MaintenanceTask;
 import com.affordmed.scheduler.dto.OptimizationResult;
-import com.affordmed.logging.service.LoggingService;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
@@ -17,12 +17,11 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 public class KnapsackOptimizationServiceTest {
 
     private KnapsackOptimizationService optimizationService;
-    private LoggingService loggingService;
+
 
     @BeforeEach
     public void setUp() {
-        loggingService = Mockito.mock(LoggingService.class);
-        optimizationService = new KnapsackOptimizationService(loggingService);
+        optimizationService = new KnapsackOptimizationService();
     }
 
     @Test

@@ -3,16 +3,16 @@ server:
 
 affordmed:
   logging:
-    baseUrl: "http://localhost:8080"
-    logEndpoint: "/api/log"
+    baseUrl: "http://4.224.186.213/evaluation-service"
+    logEndpoint: "/log"
     token: "default-log-token"
   api:
-    baseUrl: "http://localhost:8080"
-    authEndpoint: "/api/auth"
-    depotsEndpoint: "/api/depots"
-    vehiclesEndpoint: "/api/vehicles/tasks"
-    clientId: "default-client"
-    clientSecret: "default-secret"
+    baseUrl: "http://4.224.186.213/evaluation-service"
+    authEndpoint: "/auth"
+    depotsEndpoint: "/depots"
+    vehiclesEndpoint: "/vehicles/tasks"
+    clientID: "82e3b65a-3082-4d8b-9263-431e82d602f3"
+    clientSecret: "xYmJsgZNCesNRhQF"
 
 spring:
   application:
