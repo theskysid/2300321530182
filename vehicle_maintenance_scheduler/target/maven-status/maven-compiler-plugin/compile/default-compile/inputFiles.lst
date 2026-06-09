@@ -1,0 +1,17 @@
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/client/AuthClient.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/config/AffordMedProperties.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/config/AppConfig.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/dto/AuthRequest.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/controller/SchedulingController.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/exception/GlobalExceptionHandler.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/dto/OptimizationResult.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/client/DepotClient.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/SchedulerApplication.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/client/VehicleClient.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/dto/MaintenanceTask.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/dto/Depot.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/dto/ErrorResponse.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/service/SchedulingService.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/dto/AuthResponse.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/client/TokenProvider.java
+/home/theskysid/Desktop/coding/test/2300321530182/vehicle_maintenance_scheduler/src/main/java/com/affordmed/scheduler/service/KnapsackOptimizationService.java

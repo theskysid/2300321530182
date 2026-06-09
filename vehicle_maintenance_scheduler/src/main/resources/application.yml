@@ -1,0 +1,19 @@
+server:
+  port: 8080
+
+affordmed:
+  logging:
+    baseUrl: "http://localhost:8080"
+    logEndpoint: "/api/log"
+    token: "default-log-token"
+  api:
+    baseUrl: "http://localhost:8080"
+    authEndpoint: "/api/auth"
+    depotsEndpoint: "/api/depots"
+    vehiclesEndpoint: "/api/vehicles/tasks"
+    clientId: "default-client"
+    clientSecret: "default-secret"
+
+spring:
+  application:
+    name: vehicle-maintenance-scheduler
